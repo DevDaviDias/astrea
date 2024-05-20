@@ -11,4 +11,5 @@ h2{
     font-size: 20px;
     color: rgb(146, 143, 143);
     text-align: center;
+    display: block;
 }

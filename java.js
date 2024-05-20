@@ -2,4 +2,4 @@
 export function minhaFuncao() {
     console.log('Olá do script.js com ES6!');
   }
-  
+g  
